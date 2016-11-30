@@ -1,0 +1,6 @@
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\obj\Debug\TestingSystemSerializer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\bin\Debug\TestingSystemSerializer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\bin\Debug\TestingSystemSerializer.pdb
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\bin\Debug\Newtonsoft.Json.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\bin\Debug\Newtonsoft.Json.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemSerializer\obj\Debug\TestingSystemSerializer.pdb

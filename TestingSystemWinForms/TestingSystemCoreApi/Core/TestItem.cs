@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
 
-namespace TestingSystemApi.Core
+namespace TestingSystemCoreApi
 {
     /// <summary>
     /// Question structure that represents necessary data

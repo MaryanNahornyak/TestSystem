@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using TestingSystemApi;
+using TestingSystemApi.Core;
 using TestingSystemApi.Serializer;
 
 namespace ApiTest

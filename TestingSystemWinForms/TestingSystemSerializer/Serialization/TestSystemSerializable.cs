@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
+using TestingSystemApi.Core;
+
 namespace TestingSystemApi.Serializer
 {
-    public abstract class TestSystemSerialization
+    public abstract class TestSystemSerializable
     {
         #region Properties
 
@@ -25,7 +27,7 @@ namespace TestingSystemApi.Serializer
 
         #region Abstract class realisation
 
-        public TestSystemSerialization(TestItem test)
+        public TestSystemSerializable(TestItem test)
         {
             this.testItem = test;
         }

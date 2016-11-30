@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSystemWinForms", "TestingSystemWinForms\TestingSystemWinForms.csproj", "{B57CB355-EE3F-4786-B056-1D57FBF1ECF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSystemSerializerApi", "TestingSystemSerializer\TestingSystemSerializerApi.csproj", "{7A656B38-8EB0-490E-A569-51B0181CA3F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSystemApi", "TestingSystemSerializer\TestingSystemApi.csproj", "{7A656B38-8EB0-490E-A569-51B0181CA3F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

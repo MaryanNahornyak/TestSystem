@@ -4,9 +4,11 @@ using Newtonsoft.Json;
 using System.Text;
 using System.IO;
 
+using TestingSystemApi.Core;
+
 namespace TestingSystemApi.Serializer
 {
-    public sealed class JsonTestSerializer : TestSystemSerialization
+    public sealed class JsonTestSerializer : TestSystemSerializable
     {
         public JsonTestSerializer(TestItem testItem)
             : base(testItem)
