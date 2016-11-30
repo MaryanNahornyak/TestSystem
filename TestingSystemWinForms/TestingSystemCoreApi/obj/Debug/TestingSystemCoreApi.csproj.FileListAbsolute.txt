@@ -1,1 +1,0 @@
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemCoreApi\obj\Debug\TestingSystemCoreApi.csprojResolveAssemblyReference.cache
