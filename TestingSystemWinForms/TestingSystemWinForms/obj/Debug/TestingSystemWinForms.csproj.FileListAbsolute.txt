@@ -1,1 +1,2 @@
 D:\NewFolder\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
+E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
