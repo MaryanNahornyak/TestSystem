@@ -1,0 +1,10 @@
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\TestingSystemSerializer.dll
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\TestingSystemSerializer.pdb
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\projects\TestSystem\TestingSystemWinForms\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
