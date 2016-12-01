@@ -38,6 +38,8 @@ namespace TestingSystemApi.Serializer
         /// </summary>
         public abstract string Serialize();
 
+        public abstract TestItem Deserialize(string path);
+
         #endregion
     }
 }
