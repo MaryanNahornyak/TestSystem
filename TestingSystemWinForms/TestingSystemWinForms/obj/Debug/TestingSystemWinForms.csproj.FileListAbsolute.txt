@@ -1,2 +1,9 @@
 D:\NewFolder\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
