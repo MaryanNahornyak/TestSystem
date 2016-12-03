@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\TestItem.cs" />
+    <Compile Include="IOManager\TestManager.cs" />
     <Compile Include="Serialization\TestSystemSerializable.cs" />
     <Compile Include="Examples\ConsoleUsageExample.cs" />
     <Compile Include="Serialization\JsonTestSerializer.cs" />
