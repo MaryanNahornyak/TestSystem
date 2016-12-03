@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.userNameTextBox = new System.Windows.Forms.TextBox();
+            this.passworTextBox = new System.Windows.Forms.TextBox();
+            this.confirmPasswordTextBox = new System.Windows.Forms.TextBox();
+            this.adminCodeTextBox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -39,33 +39,33 @@
             this.registerButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // userNameTextBox
             // 
-            this.textBox1.Location = new System.Drawing.Point(85, 32);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 0;
+            this.userNameTextBox.Location = new System.Drawing.Point(85, 32);
+            this.userNameTextBox.Name = "userNameTextBox";
+            this.userNameTextBox.Size = new System.Drawing.Size(100, 20);
+            this.userNameTextBox.TabIndex = 0;
             // 
-            // textBox2
+            // passworTextBox
             // 
-            this.textBox2.Location = new System.Drawing.Point(85, 84);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 1;
+            this.passworTextBox.Location = new System.Drawing.Point(85, 84);
+            this.passworTextBox.Name = "passworTextBox";
+            this.passworTextBox.Size = new System.Drawing.Size(100, 20);
+            this.passworTextBox.TabIndex = 1;
             // 
-            // textBox3
+            // confirmPasswordTextBox
             // 
-            this.textBox3.Location = new System.Drawing.Point(85, 133);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 2;
+            this.confirmPasswordTextBox.Location = new System.Drawing.Point(85, 133);
+            this.confirmPasswordTextBox.Name = "confirmPasswordTextBox";
+            this.confirmPasswordTextBox.Size = new System.Drawing.Size(100, 20);
+            this.confirmPasswordTextBox.TabIndex = 2;
             // 
-            // textBox4
+            // adminCodeTextBox
             // 
-            this.textBox4.Location = new System.Drawing.Point(85, 190);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 3;
+            this.adminCodeTextBox.Location = new System.Drawing.Point(85, 190);
+            this.adminCodeTextBox.Name = "adminCodeTextBox";
+            this.adminCodeTextBox.Size = new System.Drawing.Size(100, 20);
+            this.adminCodeTextBox.TabIndex = 3;
             // 
             // label1
             // 
@@ -123,10 +123,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.adminCodeTextBox);
+            this.Controls.Add(this.confirmPasswordTextBox);
+            this.Controls.Add(this.passworTextBox);
+            this.Controls.Add(this.userNameTextBox);
             this.Name = "registrationForm";
             this.Text = "registrationForm";
             this.ResumeLayout(false);
@@ -136,10 +136,10 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox userNameTextBox;
+        private System.Windows.Forms.TextBox passworTextBox;
+        private System.Windows.Forms.TextBox confirmPasswordTextBox;
+        private System.Windows.Forms.TextBox adminCodeTextBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

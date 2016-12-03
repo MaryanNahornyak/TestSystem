@@ -27,6 +27,7 @@ namespace TestingSystemWinForms
 
             clientForm = new ClientForm();
             adminForm = new AdminForm();
+           
         }
 
         private bool UserLoginInformationIsValid(User userLoginInfo)
