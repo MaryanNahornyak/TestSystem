@@ -117,7 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAM1Y227bRhB9L9B/IPjUAo7oy0trUAkcySqERrZhOsljsCJH8qJ7YXeXrvRtfegn9Rc6yzuXutqJU+iFWs6cnTkzOzPLf//+J3y34sx7AqWpFEP/bHDqeyBimVCxHPqZWbz5xX/39scfwuuEr7xPldyFlUNNoYf+ozHpZRDo+BE40QNOYyW1XJhBLHlAEhmcn57+GpydBYAQPmJ5XnifCUM55H/w70iKGFKTETaTCTBdruObKEf1bggHnZIYhv4DaIPGRWttgH+mYiIV1753xShBYyJgC98jQkhDDJp6+VFDZJREhRQXCHtYp4ByC8I0lC5cNuKHenN6br0JGsUKKs60kfxIwLOLkp7AVX8WyX5NHxJ4jUSbtfU6J7Hg7x50xozvudtdjpiyoltYHjS6J95GiZM6RTCT7O/EG6F0pmAoIDOKsBPvLpszGv8O6wf5B4ihyBhrW4w247vOAi7dKZmCMut7WJR+GNx/mvhe0NUNXOVa1dEr/JwKc3HuezdoBJkzqBOjxUlkpILfQIAiBpI7YgwojOs0gZzangXOfpkGtX+/3RiqjFeBgfmMxPvejKw+gFiax6GPj743oStIqpUS96OgeJit2ypztgmDJjd2ZgweIXV8rlit758lz8mQ18wOy5J9+sqx7W90R7T+S6rkm2801VcJp6La572UDIjYk/K7cxHbgyEUKW6R9mU835CT+KZMS11a27W1wIvA9IohtpDGhKKPDNqlMtgNZE3aBFGcnU2u1k41zS4oul3VFYMtbTGckTTF4LXaZLniRUWPHL2Jju8cvMAIYr2hgdTW1jth3pMlOG9xa7R0QpU2Y2LInNhAjxLeE6tCuIXVapd+lNwj3zBe6djnRm9XE3PBGiIn6BvHE5y7CbVZne7ZU87HFcKI2tJxRpJlXOzqXrtQqj7SRqnWDkepOkkbRW1M8SIFHT5c9oMe/U6tdSN6ULyLw/TySOeH7/gYb1bbxqgbk+Pi0dT/NkazejhSU+DbSM3q4Uh1Be+4VS2+cpb0yqUrUu9el02nPIZlqdp/tejVrkLE95CgJ5rYulVk2MAKDKI/2YhR9LcRmBFBF5iLxdDi42h/7lxN/j/XhEDrhB18V/huEzq1/O6dso4cqLtDeb7Fi0Zy8URU/EjUT5ysfm5jvXTsfvWR95vQ7U65R9C1f5J9EZgzrc7pvkw4blLtT0OHzqN7xtGiMg39ZC7R9sLazjB7wLy6dVzdBF4OuM+cZPslOAza34DCMWi6bCDsFyEBsa1tDWglMxULWYURPWpbVIk4UZ6BIQlG4EoZuiCxwdcxaJ1fgD4RlqHINZ9DMhW3mUkzc6U18Dnr3N7CYPf++bjetTm8Te0//TVcQDMpugC34n1GWVLbPdmQolsgbDKWhxqtwgsgwi3XNdKNFAcClfSNIQVhS8ID8JQhmL4VEXmC59iG6fUBliReV510O8j+QHRpD8eULBXhusRo9O13zcB+2Hz7H7ZyGW0KFQAA</value>
+  </data>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
+  </data>
 </root>

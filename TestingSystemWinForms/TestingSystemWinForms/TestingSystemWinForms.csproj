@@ -74,6 +74,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201612021601474_InitialCreate.cs" />
+    <Compile Include="Migrations\201612021601474_InitialCreate.Designer.cs">
+      <DependentUpon>201612021601474_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612031844540_AddTestResults.cs" />
+    <Compile Include="Migrations\201612031844540_AddTestResults.Designer.cs">
+      <DependentUpon>201612031844540_AddTestResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201612031922064_JoinTables.cs" />
+    <Compile Include="Migrations\201612031922064_JoinTables.Designer.cs">
+      <DependentUpon>201612031922064_JoinTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="registrationForm.cs">
@@ -91,6 +104,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612021601474_InitialCreate.resx">
+      <DependentUpon>201612021601474_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612031844540_AddTestResults.resx">
+      <DependentUpon>201612031844540_AddTestResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612031922064_JoinTables.resx">
+      <DependentUpon>201612031922064_JoinTables.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
