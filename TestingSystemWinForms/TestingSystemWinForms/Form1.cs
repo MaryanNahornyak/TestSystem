@@ -68,6 +68,7 @@ namespace TestingSystemWinForms
 
             if (loginInfomationIsValid)
             {
+                this.Hide();
                 if (UserIsAdmin(user))
                 {
                     adminForm.Show();

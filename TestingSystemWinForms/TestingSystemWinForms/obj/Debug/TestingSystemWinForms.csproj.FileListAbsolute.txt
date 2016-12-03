@@ -23,6 +23,7 @@ E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
+<<<<<<< HEAD
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
@@ -30,3 +31,17 @@ E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
+=======
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
+>>>>>>> Fixed form display in registration form, added lock for threadpool
