@@ -46,7 +46,6 @@
     <Compile Include="Core\IO\TestFile.cs" />
     <Compile Include="Core\TestItem.cs" />
     <Compile Include="Serialization\TestSystemSerializer.cs" />
-    <Compile Include="Examples\ConsoleUsageExample.cs" />
     <Compile Include="Serialization\JsonTestSerializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

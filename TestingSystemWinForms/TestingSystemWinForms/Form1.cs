@@ -69,15 +69,20 @@ namespace TestingSystemWinForms
             if (loginInfomationIsValid)
             {
                 this.Hide();
+
+                //blocking thread with modal window
                 if (UserIsAdmin(user))
                 {
-                    adminForm.Show();
+                    adminForm.ShowDialog();
                 }
                 else
                 {
-                    clientForm.Show();
+                    clientForm.ShowDialog();
                 }
             }
+
+            //if modal window is closed then we exit application
+            Application.Exit();
         }
 
         private void registerButton_Click(object sender, EventArgs e)

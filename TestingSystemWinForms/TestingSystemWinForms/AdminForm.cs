@@ -24,13 +24,6 @@ namespace TestingSystemWinForms
         public AdminForm()
         {
             InitializeComponent();
-
-            //prevent form closing and hide it instead
-            this.FormClosing += ((s, ev) =>
-                {
-                    ev.Cancel = true;
-                    this.Hide();
-                });
         }
 
         private void AdminForm_Load(object sender, EventArgs e)
