@@ -44,7 +44,7 @@ namespace TestingSystemWinForms
                     IsAdmin = (adminCodeTextBox.Text == adminCode.ToString()) ? true : false};
                 db.Users.Add(newUser);
                 db.SaveChanges();
-                MessageBox.Show("New user {0} is added", userNameTextBox.Text);
+                MessageBox.Show("New user is added");
             }
             this.Hide();
         }
