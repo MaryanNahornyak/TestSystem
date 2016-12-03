@@ -12,7 +12,7 @@ namespace TestingSystemApi.Core
     {
         public int Id { get; set; }
         public string Question { get; set; }
-	public int CorrectAnswerId { get; set; }
+	    public int CorrectAnswerId { get; set; }
         public List<string> Answers { get; set; }
     }
 

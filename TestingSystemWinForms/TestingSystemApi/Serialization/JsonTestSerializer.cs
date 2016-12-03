@@ -12,11 +12,12 @@ using Newtonsoft.Json.Linq;
 
 namespace TestingSystemApi.Serializer
 {
-    public sealed class JsonTestSerializer : TestSystemSerializable
+    public sealed class JsonTestSerializer : TestSystemSerializer
     {
-        public JsonTestSerializer(TestItem testItem)
-            : base(testItem)
-        {}
+        public JsonTestSerializer()
+        {
+            this.TestItemSearchPattern = "*.json";
+        }
 
         /// <summary>
         /// This class serializes each question individually into json format
@@ -48,9 +49,9 @@ namespace TestingSystemApi.Serializer
         /// <summary>
         /// This method serializes test object and returns json string response
         /// </summary>
-        public override string Serialize()
+        public override string Serialize(TestItem testItem)
         {
-            if(this.TestItem.Questions.Count == 0)
+            if(testItem.Questions.Count == 0)
             {
                 throw new ArgumentException("Error (Serializer Argument exception)\nYour test does not contain any questions!");
             }
@@ -62,12 +63,12 @@ namespace TestingSystemApi.Serializer
 
             json.WriteStartObject();
             json.WritePropertyName("test_name");
-            json.WriteValue(this.TestItem.TestName);
+            json.WriteValue(testItem.TestName);
 
             json.WritePropertyName("questions");
             json.WriteStartArray();
 
-            foreach(var question in this.TestItem.Questions)
+            foreach(var question in testItem.Questions)
             {
                 json.WriteStartObject();
 
@@ -127,6 +128,11 @@ namespace TestingSystemApi.Serializer
             }
 
             return test;
+        }
+
+        public override bool IsTestValid(string testText)
+        {
+            return testText.Contains("test_name") && testText.Contains("questions");
         }
     }
 }

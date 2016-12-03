@@ -21,3 +21,15 @@ E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
+D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml

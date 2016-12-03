@@ -5,17 +5,13 @@ using TestingSystemApi.Core;
 
 namespace TestingSystemApi.Serializer
 {
-    public abstract class TestSystemSerializable
+    public abstract class TestSystemSerializer
     {
         #region Properties
 
-        public TestItem TestItem
-        {
-            get
-            {
-                return testItem;
-            }
-        }
+        public TestItem TestItem { get; set; }
+
+        public string TestItemSearchPattern { get; protected set; }
 
         #endregion
 
@@ -27,18 +23,20 @@ namespace TestingSystemApi.Serializer
 
         #region Abstract class realisation
 
-        public TestSystemSerializable(TestItem test)
-        {
-            this.testItem = test;
-        }
-
         /// <summary>
         /// This method serializes an array of test questions
         /// using a specific text formats
         /// </summary>
-        public abstract string Serialize();
+        public abstract string Serialize(TestItem testItem);
 
         public abstract TestItem Deserialize(string path);
+
+        /// <summary>
+        /// Checks if  
+        /// </summary>
+        /// <param name="testText"></param>
+        /// <returns></returns>
+        public abstract bool IsTestValid(string testText);
 
         #endregion
     }
