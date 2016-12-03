@@ -66,9 +66,9 @@ namespace TestingSystemWinForms
 
             bool loginInfomationIsValid = UserLoginInformationIsValid(user);
 
-            if(loginInfomationIsValid)
+            if (loginInfomationIsValid)
             {
-                if(UserIsAdmin(user))
+                if (UserIsAdmin(user))
                 {
                     adminForm.Show();
                 }

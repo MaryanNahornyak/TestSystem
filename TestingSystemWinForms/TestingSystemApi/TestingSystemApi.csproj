@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\IO\TestFile.cs" />
     <Compile Include="Core\TestItem.cs" />
-    <Compile Include="IOManager\TestManager.cs" />
-    <Compile Include="Serialization\TestSystemSerializable.cs" />
+    <Compile Include="Serialization\TestSystemSerializer.cs" />
     <Compile Include="Examples\ConsoleUsageExample.cs" />
     <Compile Include="Serialization\JsonTestSerializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
