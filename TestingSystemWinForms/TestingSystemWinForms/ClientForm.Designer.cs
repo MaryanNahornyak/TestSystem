@@ -60,6 +60,7 @@
             this.folderSelectButton.TabIndex = 2;
             this.folderSelectButton.Text = "Select folder with tests";
             this.folderSelectButton.UseVisualStyleBackColor = true;
+            this.folderSelectButton.Click += new System.EventHandler(this.folderSelectButton_Click);
             // 
             // ClientForm
             // 

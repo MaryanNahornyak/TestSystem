@@ -119,6 +119,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TestingSystemApi\TestingSystemApi.csproj">
+      <Project>{7a656b38-8eb0-490e-a569-51b0181ca3f6}</Project>
+      <Name>TestingSystemApi</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
