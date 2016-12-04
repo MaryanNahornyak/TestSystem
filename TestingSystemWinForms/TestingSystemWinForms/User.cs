@@ -35,6 +35,7 @@ namespace TestingSystemWinForms
         [ForeignKey("User")]
         public int userId { get; set; }
         public string result { get; set; }
+        public string testName { get; set; }
     }
 
     public class User_Db : DbContext

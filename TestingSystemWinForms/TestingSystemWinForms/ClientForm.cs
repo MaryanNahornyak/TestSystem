@@ -28,13 +28,16 @@ namespace TestingSystemWinForms
 
         List<RadioButton> answers;
 
+        User_Db dataBase;
+
         TestSystemSerializer jsonSerializer;
 
         TestItem selectedTest;
         int currentQuestionIndex;
         int correctQuestionsCount;
+        int currentUserId;
 
-        public ClientForm()
+        public ClientForm(int userId)
         {
             InitializeComponent();
 
@@ -42,8 +45,10 @@ namespace TestingSystemWinForms
 
             jsonSerializer = new JsonTestSerializer();
             answers = new List<RadioButton>();
+            dataBase = new User_Db();
 
             threadLock = new object();
+            currentUserId = userId;
         }
 
         private void ClientForm_Load(object sender, EventArgs e)
@@ -190,6 +195,13 @@ namespace TestingSystemWinForms
         public void EndTest()
         {
             MessageBox.Show("You answered correctly : " + correctQuestionsCount + " of " + selectedTest.Questions.Count);
+
+            TestResult result = new TestResult();
+            result.userId = currentUserId;
+            result.result = correctQuestionsCount.ToString() + "/" + selectedTest.Questions.Count.ToString();
+            result.testName = selectedTest.TestName;
+            dataBase.TestResults.Add(result);
+            dataBase.SaveChanges();
             testPanel.Hide();
         }
 
@@ -226,6 +238,11 @@ namespace TestingSystemWinForms
                     }
                 }
             }
+        }
+
+        private void ClientForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Close();
         }
     }
 }

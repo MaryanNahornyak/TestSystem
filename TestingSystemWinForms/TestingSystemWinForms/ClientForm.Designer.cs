@@ -128,6 +128,7 @@
             this.Controls.Add(this.testInitPanel);
             this.Name = "ClientForm";
             this.Text = "ClientForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ClientForm_FormClosing);
             this.Load += new System.EventHandler(this.ClientForm_Load);
             this.testInitPanel.ResumeLayout(false);
             this.testPanel.ResumeLayout(false);

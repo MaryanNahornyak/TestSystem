@@ -25,7 +25,7 @@ namespace TestingSystemWinForms
             userDb = new User_Db();
             r = new registrationForm();
 
-            clientForm = new ClientForm();
+            
             adminForm = new AdminForm();
            
         }
@@ -73,10 +73,12 @@ namespace TestingSystemWinForms
                 //blocking thread with modal window
                 if (UserIsAdmin(user))
                 {
+                    
                     adminForm.ShowDialog();
                 }
                 else
                 {
+                    clientForm = new ClientForm(user.Id);
                     clientForm.ShowDialog();
                 }
             }
