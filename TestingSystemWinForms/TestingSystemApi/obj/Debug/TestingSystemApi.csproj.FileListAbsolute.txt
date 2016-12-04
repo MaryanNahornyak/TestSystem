@@ -15,6 +15,5 @@ E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Testi
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.pdb
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.dll
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.xml
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
