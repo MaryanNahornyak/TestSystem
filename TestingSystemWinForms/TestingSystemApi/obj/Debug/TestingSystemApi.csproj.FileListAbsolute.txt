@@ -19,3 +19,27 @@ D:\projects\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingS
 D:\projects\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
 D:\projects\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
 E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.dll
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.pdb
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.dll
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.xml
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
+D:\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.dll
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.pdb
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
+C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
+=======
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.dll
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.pdb
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
+C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
+>>>>>>> 318f146... addRegularExpForUserName

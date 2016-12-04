@@ -242,7 +242,7 @@ namespace TestingSystemWinForms
 
         private void ClientForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-            this.Close();
+            
         }
     }
 }
