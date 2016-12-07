@@ -55,7 +55,7 @@
             "5",
             "6",
             "7"});
-            this.answersComboBox.Location = new System.Drawing.Point(187, 15);
+            this.answersComboBox.Location = new System.Drawing.Point(187, 25);
             this.answersComboBox.Name = "answersComboBox";
             this.answersComboBox.Size = new System.Drawing.Size(100, 21);
             this.answersComboBox.TabIndex = 3;
@@ -82,7 +82,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(190, -1);
+            this.label3.Location = new System.Drawing.Point(190, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(98, 13);
             this.label3.TabIndex = 6;

@@ -1,141 +1,24 @@
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-D:\projects\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
-E:\TestProject\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddColumnTestName.resources
-<<<<<<< HEAD
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddColumnTestName.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
-D:\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
-<<<<<<< HEAD
-=======
->>>>>>> refs/remotes/origin/Arkadii
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddColumnTestName.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
-C:\Users\s24-rp\Desktop\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
-<<<<<<< HEAD
->>>>>>> 00d0cd8... Doc chanched
-=======
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
->>>>>>> c4a6528... Merging
-=======
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
-<<<<<<< HEAD
->>>>>>> 2d8c9ae... downloadPro
-=======
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddColumnTestName.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
-C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
-<<<<<<< HEAD
->>>>>>> 318f146... addRegularExpForUserName
-=======
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
-D:\Папке\ProjectManagment\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb
->>>>>>> 907e22f... AddComent
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe.config
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.exe
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemWinForms.pdb
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\TestingSystemSerializer.pdb
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.xml
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csprojResolveAssemblyReference.cache
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.AdminForm.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.ClientForm.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Form1.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.InitialCreate.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddTestResults.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.JoinTables.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Migrations.AddColumnTestName.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.Properties.Resources.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.registrationForm.resources
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.csproj.GenerateResource.Cache
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.exe
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemWinForms\obj\Debug\TestingSystemWinForms.pdb

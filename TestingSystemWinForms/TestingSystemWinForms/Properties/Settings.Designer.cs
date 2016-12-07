@@ -26,8 +26,8 @@ namespace TestingSystemWinForms.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=310-14;Initial Catalog=Users_db;Persist Security Info=True;User ID=sa" +
-            ";Password=1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=310-12;Initial Catalog=UsersDB;Persist Security Info=True;User ID=sa;" +
+            "Password=1")]
         public string Setting {
             get {
                 return ((string)(this["Setting"]));

@@ -7,6 +7,7 @@ using System.Windows.Forms;
 using TestingSystemApi.Core;
 using TestingSystemApi.Core.IO;
 using TestingSystemApi.Serializer;
+using System.Linq;
 
 namespace TestingSystemWinForms
 {
@@ -35,9 +36,8 @@ namespace TestingSystemWinForms
         TestItem selectedTest;
         int currentQuestionIndex;
         int correctQuestionsCount;
-        int currentUserId;
-
-        public ClientForm(int userId)
+        User us;
+        public ClientForm(User user)
         {
             InitializeComponent();
 
@@ -48,7 +48,7 @@ namespace TestingSystemWinForms
             dataBase = new User_Db();
 
             threadLock = new object();
-            currentUserId = userId;
+            us = user;
         }
 
         private void ClientForm_Load(object sender, EventArgs e)
@@ -197,7 +197,9 @@ namespace TestingSystemWinForms
             MessageBox.Show("You answered correctly : " + correctQuestionsCount + " of " + selectedTest.Questions.Count);
 
             TestResult result = new TestResult();
-            result.userId = currentUserId;
+            var list = dataBase.Users.Where(x => x.UserName == us.UserName).ToList();
+
+            result.User = dataBase.Users.Where(x => x.UserName == us.UserName).First();
             result.result = correctQuestionsCount.ToString() + "/" + selectedTest.Questions.Count.ToString();
             result.testName = selectedTest.TestName;
             dataBase.TestResults.Add(result);

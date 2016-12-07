@@ -43,3 +43,10 @@ C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms
 C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
 C:\Users\Ігор\Desktop\Новая папка\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb
 >>>>>>> 318f146... addRegularExpForUserName
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\TestingSystemSerializer.pdb
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\bin\Debug\Newtonsoft.Json.xml
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemApi.csprojResolveAssemblyReference.cache
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.dll
+D:\Практикум\TestSystem\TestingSystemWinForms\TestingSystemApi\obj\Debug\TestingSystemSerializer.pdb

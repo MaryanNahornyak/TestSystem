@@ -78,7 +78,7 @@ namespace TestingSystemWinForms
                 }
                 else
                 {
-                    clientForm = new ClientForm(user.Id);
+                    clientForm = new ClientForm(user);
                     clientForm.ShowDialog();
                 }
             }

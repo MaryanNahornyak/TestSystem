@@ -5,13 +5,12 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace TestingSystemWinForms
 {
-
     public partial class registrationForm : Form
     {
         User_Db db;
@@ -24,20 +23,10 @@ namespace TestingSystemWinForms
             
         }
 
-        /**
-        \brief 
-
-          Before register check userName, password.        
-        */
         private void registerButton_Click(object sender, EventArgs e)
         {
             if (userNameTextBox.Text != "" && passworTextBox.Text != "" && confirmPasswordTextBox.Text != "")
             {
-                /**
-                \author Ihor
-                \details Check username, you can use only A-Z, a-z, 0-9 or '_'
-                \date 06.12.16
-                **/
                 if (!Regex.IsMatch(userNameTextBox.Text, @"[^A-Za-z0-9_]"))
                 {
 
@@ -65,7 +54,8 @@ namespace TestingSystemWinForms
                     MessageBox.Show("New user is added");
 
                     this.Hide();
-                }else MessageBox.Show("Incorrect UserName! You can use A-Z, a-z, 0-9 or '_'");
+                }
+                else MessageBox.Show("Incorrect UserName! You can use A-Z, a-z, 0-9 or '_'");
             }
         }
     }

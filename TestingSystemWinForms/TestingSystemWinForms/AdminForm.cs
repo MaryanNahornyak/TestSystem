@@ -34,7 +34,6 @@ namespace TestingSystemWinForms
 
 
         /**
-         \author Arkadii
         * Start creating tests
         */
         private void confirmButton_Click(object sender, EventArgs e)
@@ -55,7 +54,6 @@ namespace TestingSystemWinForms
 
 
         /**
-         \author Arkadii
         * Adding questions and answers
         */
         private void addButton_Click(object sender, EventArgs e)
@@ -86,8 +84,7 @@ namespace TestingSystemWinForms
                     else
                     {
                         setCorrectAnswerId(correctId - 1);
-                        answersComboBox.Visible = false;
-                        label3.Visible = false;
+                        
                     }
                 }
             }
@@ -95,7 +92,6 @@ namespace TestingSystemWinForms
 
 
         /**
-         \author Arkadii
         * Question add method
         */
         private void addQuestionName()
@@ -122,7 +118,6 @@ namespace TestingSystemWinForms
 
 
         /**
-        \author Arkadii
         * Answer add method
         */
         private void addAnswer()
@@ -142,7 +137,6 @@ namespace TestingSystemWinForms
 
 
         /**
-         \author Arkadii
         * Add correct answer id, and if it`s last question confirm the test
         */
         private void setCorrectAnswerId(int correctId)
@@ -154,6 +148,7 @@ namespace TestingSystemWinForms
                 answersComboBox.Visible = true;
                 label3.Visible = true;
                 label2.Text = "Question " + (newTestItem.Questions.Count + 1).ToString();
+                //answersComboBox.Visible = true;
             }
             else
             {
@@ -174,7 +169,6 @@ namespace TestingSystemWinForms
         }
 
         /**
-         \author Arkadii
         * Return to creating a new test
         */
         private void backToTestAdding()
@@ -182,19 +176,18 @@ namespace TestingSystemWinForms
             addButton.Visible = false;
             confirmButton.Show();
             label1.Show();
-            label3.Show();
+            label3.Hide();
             testNameTextBox.Show();
             testNameTextBox.Text = "";
-            answersComboBox.Show();
+            answersComboBox.Hide();
             answersComboBox.SelectedItem = "";
-            this.questionsTextBox.Location = new System.Drawing.Point(89, 126);
+            this.questionsTextBox.Location = new System.Drawing.Point(82, 93);
             this.questionsTextBox.Size = new System.Drawing.Size(100, 20);
             questionsTextBox.Text = "";
             label2.Text = "Number of questions";
         }
 
         /**
-         \author Arkadii
         * Changing for to fill questions and answers
         */
         private void testFillerAdd()
